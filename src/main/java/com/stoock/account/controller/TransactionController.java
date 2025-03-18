@@ -7,4 +7,9 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/transactions")
 public class TransactionController {
 
+    //입금
+
+    //송금
+
+    //출금
 }
